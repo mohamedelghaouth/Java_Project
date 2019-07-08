@@ -1,6 +1,7 @@
 
 public class blue implements Color {
 
+	// hkjnlmlmknjbkhjbnk,l github
 
 	public String toString() {
 		return "blue";
